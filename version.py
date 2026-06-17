@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
-major = 4
-minor = 7
+short_name = "hikko"
+name = "hikko Engine"
+major = 1
+minor = 0
 patch = 0
-status = "rc"
+status = "stable"
 module_config = ""
-website = "https://godotengine.org"
+website = "https://hikkogames.com"
 docs = "latest"
