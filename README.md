@@ -1,20 +1,36 @@
-# Godot Engine
+# Hikko Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="misc/logo/logo_outlined.svg" width="400" alt="Godot Engine logo">
+  <a href="https://hikkogames.com">
+    <img src="misc/logo/logo_outlined.svg" width="400" alt="Hikko Engine logo">
   </a>
 </p>
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
+**[Hikko Engine](https://hikkogames.com) is a feature-packed, cross-platform
+game engine based on Godot Engine to create 2D and 3D games from a unified interface.** 
+
+### For Hikko Games Developers
+
+See [HIKKO_WIKI.md](HIKKO_WIKI.md) for internal documentation:
+- How to build the engine
+- Differences from standard Godot
+- Custom modules (HikkoAuth, HikkoAnalytics, HikkoAutoUpdate, HikkoCrypto)
+- Project building rules for target platforms
+- Upstream synchronization process
+
+### About Hikko Engine
+
+Hikko Engine is a customized fork of [Godot Engine](https://godotengine.org) with:
+- Custom branding (hikko Engine)
+- Built-in asset encryption for PCK files
+- HikkoCore module with authentication, analytics, auto-update, and cryptography
+- Custom project file format (project_info.hikko)
+
+Games can be exported with one click to a number of platforms, including the major desktop
 platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://godotengine.org/consoles).
+Web-based platforms and consoles.
 
 ## Free, open source and community-driven
 
